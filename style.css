@@ -1,3 +1,15 @@
 h1 {
     color: brown;
 }
+p {
+    color: green;
+}
+div {
+    height: 200px;
+    width: 200px;
+    background-color: salmon;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
